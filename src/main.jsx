@@ -38,7 +38,7 @@ const loadIndigitall = () => {
     }
 
     window.indigitall.init({
-      appKey: '86893ae1-008d-4973-91f0-63a5c3f6b456', // replace with your real key
+      appKey: 'your-app-key', // replace with your real key
       urlDeviceApi: 'https://am1.device-api.indigitall.com/v1',
       workerPath: '/indigitall/worker.min.js',
       requestLocation: true,
